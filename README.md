@@ -25,7 +25,7 @@ The environment setup relies on the MambaMIL framework. Please refer to the offi
 
 ### 1. Prepare Slide Features
 Please refer to a general foundation model pipeline to extract features and place them in your local directory. 
-* **Example extractor:** TRIDENT (or other foundation models).
+* **Example extractor:** CTRANSPATH (or other foundation models).
 
 ### 2. Prepare Prototypes
 Run the following command to generate prototypes and save them to your local directory. Adjust the arguments as necessary for your dataset.
